@@ -1,0 +1,51 @@
+nav{
+    background-color:  rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    height: 300px;
+    
+
+}
+label{
+    color: rgb(18, 202, 202);
+
+}
+.middle{
+  
+   font-size: 156%;
+
+
+}
+
+input{
+    border-radius: 15px;
+    width: 500px;
+    height: 45px;
+    font-size: 20px;
+    
+
+    
+}
+
+
+.logo{
+    color: rgb(161, 149, 137);
+}
+.btn1 {
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    font-style:unset;
+    font-size:xx-large;
+    border-radius: 12px;
+    border: 0px;
+}
+h2{
+color: rgb(236, 156, 156);
+
+
+}
+h1{
+    font-size: 50px;
+    padding left: 50px ;
+}
