@@ -2,7 +2,6 @@ nav{
     background-color:  rgb(0, 0, 0);
     display: flex;
     justify-content: space-between;
-    padding: 25px;
     height: 300px;
     
 
@@ -14,6 +13,8 @@ label{
 .middle{
   
    font-size: 156%;
+   position:relative;
+   top: 100px;
 
 
 }
@@ -38,7 +39,7 @@ input{
     font-style:unset;
     font-size:xx-large;
     border-radius: 12px;
-    border: 0px;
+   
 }
 h2{
 color: rgb(236, 156, 156);
@@ -48,4 +49,15 @@ color: rgb(236, 156, 156);
 h1{
     font-size: 50px;
     padding left: 50px ;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    height: 360px;
+    width: 560px;
+    font-weight: 450px;
+}
+.sec-cap3{
+border-color: aqua;
+border: 45px;
 }
